@@ -22,7 +22,7 @@ export default function Home() {
           width={300}
           height={300}
         />
-        <Typography variant={"h1"}>Костя Козлик</Typography>
+        <Typography variant={"h1"}>Костя Козлик, ну и Андрюха тоже</Typography>
       </Stack>
     </Container>
   );
