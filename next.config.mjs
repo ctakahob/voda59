@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'plus.unsplash.com',
+                hostname: 'sun9-63.userapi.com',
                 pathname: '/**', // разрешает все пути на этом домене
             },
         ],

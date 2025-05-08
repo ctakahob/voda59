@@ -16,7 +16,7 @@ export default function Home() {
       <Stack alignItems={"center"} mt={1}>
         <Image
           src={
-            "https://plus.unsplash.com/premium_photo-1664304299664-a8e2e2f80290?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "https://sun9-63.userapi.com/s/v1/ig2/-btcO20z1lH9Z8P2Dq1v0ZEgkrToI8Tdx1FpFUxh7zWglCSoZhSoVMBCyIYCZsiprP4zAIguyjhPI7r_C6C6aDX0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,604x604&from=bu&u=_LThJlngVZ5gQKq3kM_IMm24D8aP0vB855H7Hk5RB3I&cs=604x604"
           }
           alt={"Козлик"}
           width={300}
